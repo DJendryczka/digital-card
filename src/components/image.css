@@ -4,5 +4,11 @@
     height: 317px;
     top: 44px;
     left: 116px;
-    border: 1px solid white;
+    background: url(../images/jag.jpg);
+    background-position: center;
+    border-radius: 10px 10px 0px 0px;   
+}
+
+img {
+    width: 317px;
 }

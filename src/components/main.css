@@ -5,5 +5,9 @@
     left: 116px;
     top: 361px;
     background: #1A1B21;
-    border: 1px solid white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
 }
